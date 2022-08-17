@@ -1,6 +1,6 @@
 ---
 title: Plex Install Guide
-date: 2021-07-16 12:00:00 -500
+date: 2022-08-16 23:00:00 -500
 categories: [Homelab,Plex,How To]
 tags: [servers,plex,homelab,howto]
 ---
